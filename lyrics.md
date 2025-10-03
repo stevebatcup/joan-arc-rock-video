@@ -13,7 +13,7 @@ Than live inside their dreams
 They dress me up in armor
 That was never meant to fit
 A girl who hears the angels
-Through the static and the grit
+Through the static and the shit
 
 [Chorus]
 I hear what you can't hear

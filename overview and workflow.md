@@ -395,4 +395,17 @@ A successful proof of concept demonstrates:
 
 ---
 
+## Prompt Naming Convention:
+
+LY## - Lyrics prompts (song structure, genre variations, lyrical themes)
+IM## - Image prompts (visual descriptions for image generation)
+VI## - Video prompts (i2v motion descriptions)
+MU## - Suno Prompts (the actual music generation prompts) since those are distinct from lyrics.
+
+Examples:
+MU01, MU02, MU03... = Suno music generation prompts
+LY01, LY02, LY03... = Lyric variations or new songs
+IM01, IM02, IM03... = Image generation prompts (will be batches of 10-20)
+VI01, VI02, VI03... = Video/i2v prompts
+
 *This documentation is a living document and will evolve as the production process is refined through actual project work.*
