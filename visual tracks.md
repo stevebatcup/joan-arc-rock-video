@@ -15,6 +15,7 @@
 - The band as village companions, believers, quiet support
 - Intimate friendship moments, sitting together, shared glances
 - Building trust and connection in peasant clothing
+- Joan earing the voices, kneeling at altar
 
 **Color Palette:** 
 - Warm golds, soft greens, natural earth tones
@@ -50,6 +51,8 @@
 - The band as her soldiers/commanders in armor
 - Fighting as a unit, protecting each other
 - Strategy moments, brotherhood of warriors
+- Joan on the battlefield leading her troops, bloody
+
 
 **Color Palette:**
 - Deep oranges, reds, smoky greys
@@ -85,6 +88,8 @@
 - Intimate acoustic moments AND explosive full-band energy
 - Audience energy (hands up, crowd presence)
 - Both vulnerable quiet and cathartic loud
+- All characters for this visual track have the aesthetic, clothing, hairstyle of the emo metal scene of the early 2000s
+
 
 **Color Palette:**
 - Stage lighting: blues, purples, deep reds
@@ -115,6 +120,7 @@
 **Visual Vibe:** Beautiful and terrible, apocalyptic spirituality, transcendence
 
 **Key Imagery:**
+- Wood loading beneath her, building the pyre
 - Joan surrounded by fire
 - Flames rising around her
 - Her face lit by firelight—peaceful, defiant, transcendent
@@ -123,7 +129,6 @@
 - Becoming light/legend
 - Fire as beauty and power, not torture
 - Transformation into eternal symbol
-- The band as witnesses (optional): devastated, reaching but unable to save her
 
 **Color Palette:**
 - Fire: oranges, reds, deep golds
