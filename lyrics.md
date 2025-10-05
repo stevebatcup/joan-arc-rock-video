@@ -92,4 +92,4 @@ Who refuse to disappear
 
 (The voices never leave us
 The voices never leave us
-The voices never...)
+The voices never leave)
