@@ -134,7 +134,7 @@ Each video intercuts between 3 thematic visual streams that together create narr
 ---
 
 ### Phase 5: Image Prompt Generation
-**Goal:** Generate 100+ specific image prompts across three visual tracks
+**Goal:** Generate ~200 specific image prompts across three visual tracks
 
 **Process:**
 1. Work in batches of 10-20 prompts at a time
@@ -168,10 +168,10 @@ Each video intercuts between 3 thematic visual streams that together create narr
 - Generate batches of 10-20 prompts per session
 - Ensure variety and coverage across all visual tracks
 - Create start/end frame pairs for img2vid workflow
-- Track total prompt count toward 100+ goal
+- Track total prompt count toward ~220 goal
 - Maintain consistency within tracks while varying specifics
 
-**Deliverable:** 100+ image prompts organized by visual track, formatted for easy copy/paste into image generators
+**Deliverable:** ~220 image prompts organized by visual track, formatted for easy copy/paste into image generators
 
 ---
 
@@ -361,7 +361,7 @@ A successful proof of concept demonstrates:
 4. **Serve the arc:** All elements should support the character's emotional journey
 5. **Balance AI and human:** Celebrate both the AI tools and human creative choices
 6. **Be specific:** Vague prompts get vague results—details matter
-7. **Work in batches:** Don't try to generate all 100+ prompts at once
+7. **Work in batches:** Don't try to generate all ~200 prompts at once
 8. **Track progress:** Keep count of prompts generated, sections completed
 9. **Adapt as needed:** If something isn't working, adjust the approach
 10. **Celebrate the weird:** The anachronistic juxtaposition is the point—lean into it
@@ -385,7 +385,7 @@ A successful proof of concept demonstrates:
 - [ ] Stems extracted
 - [ ] Orchestral arrangement planned
 - [ ] Visual tracks defined
-- [ ] Image prompts: [X/100+]
+- [ ] Image prompts: [X/~200]
 - [ ] Images generated
 - [ ] Video prompts written
 - [ ] Video clips generated

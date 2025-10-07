@@ -7,7 +7,7 @@
 
 **Project:** Anachronic - Joan of Arc through Early 2000s Emo Rock  
 **Tool:** Sora for t2i generation, Freepik for upscaling, Higgsfield for i2v  
-**Goal:** Generate 100+ high-quality images across 4 visual tracks for music video production  
+**Goal:** Generate ~220 high-quality images across 4 visual tracks for music video production  
 **Approach:** Direct actor likeness ("ACTOR as CHARACTER") leveraging Sora's superior facial recognition
 
 **CRITICAL CONTEXT REQUIREMENT:** Each prompt must be completely standalone and self-contained. No references to "same as before," "previous shot," or assumptions about shared context between prompts. Every prompt will be used individually in a t2i model interface where no context persists between requests.
