@@ -705,6 +705,45 @@ Before finalizing any prompt, verify:
 - Note which song sections each image/video suits
 - Maintain flexibility for creative editing decisions
 
----
+----
+
+Revised Prompting Strategy
+
+Primary Rule:
+The specific scene description always takes priority over track assignment.
+When to Use Track Presets:
+✅ Scene naturally aligns with track's core imagery (battlefield, stage performance, rural isolation, pyre)
+✅ Track aesthetic enhances rather than conflicts with the scene
+✅ Environmental elements match track setting
+When to Leave Track Blank:
+❌ Scene is highly specific and detailed (trial, intimate moments, transitional scenes)
+❌ Track preset would introduce conflicting elements
+❌ Multiple characters require facial precision (presets add complexity)
+❌ Scene needs custom lighting/atmosphere that contradicts track defaults
+When Track is Blank:
+
+Write fully detailed custom prompt (150-200 words)
+Include all necessary elements: setting, lighting, camera, emotion, style
+Add light thematic cues if needed (e.g., "battle-worn," "emo aesthetic," "transcendent")
+Trust the specific description to do the work
+
+
+Practical Examples:
+Good Track Match:
+**VISUAL TRACK:** Track 2 - Warrior
+WIDE SHOT. Medieval battlefield at dusk...
+(Battlefield = natural Track 2 fit)
+Better Without Track:
+**VISUAL TRACK:** [None - Custom]
+MEDIUM CLOSE-UP. Medieval cathedral interior, Joan in chains at trial...
+(Cathedral trial = too specific, would conflict with battlefield preset)
+
+Quality Control Checklist (Updated):
+Before assigning a track, ask:
+
+Does this scene naturally belong in this track's world?
+Will the preset help or hijack this specific prompt?
+Are there 3+ faces that need precision? (If yes, lean toward no track)
+Is the scene transitional between tracks? (If yes, probably no track)
 
 *This document incorporates lessons learned from WickedAI's visual approach, historical accuracy research for 1420s France, surreal escalation strategy (Option 3), and technical requirements for standalone t2i prompts with separate i2v motion descriptions.*
