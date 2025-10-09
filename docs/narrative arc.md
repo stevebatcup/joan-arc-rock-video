@@ -1,11 +1,11 @@
 # Joan of Arc Music Video - Prompt Map
-## 10-Section Outline for 100+ Image Prompts
+## 10-Section Outline for 170+ Image Prompts
 
 ---
 
 ## OVERVIEW
 
-**Total Prompts:** 100+ images across 4 visual tracks
+**Total Prompts:** 170+ images across 4 visual tracks
 **Distribution Strategy:** 
 - THE NARRATIVE CORE: 40% (sections 1-4)
 - THE MUSIC VIDEO SPECTACLE: 40% (sections 5-7)

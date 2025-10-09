@@ -241,7 +241,22 @@ Instead of generic "lighting," specify actual medieval sources:
 Create prompts based on these four distinct visual tracks. Each track has specific aesthetic guidelines.
 Include "Do not include text in the images" as Sora has a tendency to add text for historial imagery.
 
-See the "visual tracks.md" file for more details.
+See the "visual tracks.md" file for more details but these guidelines must be followed when writing the presets:
+1. Maximum of 1800 characters
+2. Give lots of detail on setting, lighting, visual effects. Be creative
+3. Do not mention people at all.
+4. Follow this structure, providing a description for each:
+- Purpose
+- Era & Capture
+- Production Design
+- Lighting
+- Wardrobe & Styling
+- Performance & Camera
+- Editorial & Effect
+- Finish
+- Vibe
+- Exclusions
+
 ---
 
 ## ADVANCED PROMPTING TECHNIQUES
