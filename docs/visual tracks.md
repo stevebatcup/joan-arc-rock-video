@@ -201,3 +201,304 @@
 - Light (divine in origins, stage lights, firelight)
 - Smoke/atmosphere (battle, stage, pyre)
 - Isolation vs. unity (Joan alone, Joan with her band)
+
+
+More info on the visual tracks
+
+### TRACK 1: ORIGINS / ISOLATION
+
+**Purpose:** Establish Joan's calling, isolation, and divine connection before her warrior journey
+
+**Era & Capture:**
+- Medieval rural France, 1420s
+- Natural, pastoral settings
+- Dawn/dusk magic hour filming
+- Intimate, documentary-style capture
+
+**Production Design:**
+- Wheat fields, forest clearings, village edges
+- Simple wooden structures, stone churches (SMALL/MODEST ONLY)
+- Rustic, authentic medieval peasant environment
+- Minimal props, emphasis on natural beauty
+
+**Lighting:**
+- Soft golden hour (dawn/dusk)
+- Candlelight for interior moments
+- Natural diffused sunlight
+- Ethereal, gentle, spiritual quality
+- Warm color temperature
+
+**Wardrobe & Styling (Joan):**
+- Simple medieval peasant dress (earth tones, rough linen)
+- Long hair, loose or simply braided
+- Bare feet or simple leather shoes
+- No armor, no weapons yet
+- Natural, unglamorous authenticity
+
+**Wardrobe & Styling (Band Members):**
+- Medieval peasant clothing (browns, grays, earth tones)
+- Village companions aesthetic
+- Practical working clothes
+- Simple, period-appropriate
+
+**Performance & Camera:**
+- Intimate close-ups on Joan's face (listening, hearing voices)
+- Quiet, contemplative moments
+- Joan alone in wide landscapes
+- Small group interactions (max 2-3 people)
+- Various angles: low, high, eye-level
+- 35mm or 50mm lens for natural perspective
+
+**Editorial & Effect:**
+- Soft focus, dreamy quality
+- Natural film grain
+- Gentle color grading (warm, organic)
+- Minimal contrast, softer shadows
+
+**Finish:**
+- Cinematic pastoral realism
+- Ethereal without being fantasy
+- Intimate, personal, spiritual
+
+**Vibe:**
+- Lonely, haunting, divine obsession
+- The girl who hears voices
+- Isolation before transformation
+- Quiet power building
+
+**Exclusions:**
+- Avoid overt fantasy elements
+- No modern elements
+- No weapons or armor yet
+- No grand cathedrals or elaborate Gothic spaces (not historically accurate)
+
+---
+
+### TRACK 2: WARRIOR
+
+**Purpose:** Joan as military leader, battlefield commander, armored warrior—power and violence
+
+**Era & Capture:**
+- Medieval battlefield, 1429-1430
+- Siege warfare, open field combat
+- Golden hour warfare, smoke-filled atmosphere
+- Epic, heroic cinematography
+
+**Production Design:**
+- Medieval battlefields with smoke and fire
+- Castle sieges (modest scale), burning structures
+- Banners, heraldic symbols, medieval weapons
+- Muddy, chaotic, visceral warfare
+- Strategy tents, military camps (FUNCTIONAL NOT ORNATE)
+
+**Lighting:**
+- Golden hour backlit through smoke
+- Firelight from burning structures
+- Dramatic shadows, high contrast
+- Orange and red tones from flames
+- Silhouettes against fire
+
+**Wardrobe & Styling (Joan):**
+- Full medieval plate armor (silver/steel)
+- White banner with fleur-de-lis
+- Sword raised or at side
+- Hair tied back or hidden under armor
+- Battle-worn, dirt and blood
+- Heraldic tabard over armor
+
+**Wardrobe & Styling (Band Members):**
+- Medieval armor (varied styles)
+- Soldiers, commanders, warriors
+- Battle-worn, muddy, bloodied
+- Weapons (swords, bows, polearms)
+- Heraldic colors and symbols
+- Brotherhood of warriors aesthetic
+
+**Performance & Camera:**
+- Epic low angle hero shots
+- Close-ups of intense faces
+- Wide shots of battlefield scale
+- Various dramatic angles
+- Smoke and fire as foreground/background elements
+- 24mm wide for scale, 50mm for character focus
+
+**Editorial & Effect:**
+- High contrast, dramatic
+- Desaturated with orange/teal push
+- Film grain, gritty texture
+- Motion blur for action
+- Smoke and particle effects
+
+**Finish:**
+- Cinematic medieval warfare
+- Gritty realism with epic scale
+- Powerful, violent, glorious
+
+**Vibe:**
+- Fierce, defiant, powerful
+- Burden of command
+- Violence and glory
+- Warriors united in battle
+
+**Exclusions:**
+- Avoid gratuitous gore (suggest violence, don't show explicit)
+- No modern warfare elements
+
+---
+
+### TRACK 3: ANACHRONIC STAGE
+
+**Purpose:** Joan and her band as early 2000s emo rock performers—cathartic musical expression
+
+**Era & Capture:**
+- Early 2000s emo/punk rock aesthetic
+- MEDIEVAL VENUE transformed to concert space
+- Dramatic stage lighting
+- High-energy performance cinematography
+
+**Production Design - MEDIEVAL SETTINGS:**
+
+**Early/Grounded Stage Prompts:**
+- **Castle courtyard converted to concert venue:** Stone walls, burning braziers for lighting, night sky above, cobblestone ground, instruments on medieval stone platform
+- **Small village church transformed:** Rough stone walls, simple wooden beams, candlelight mixed with impossible stage lighting
+- **Town marketplace at night:** Cobblestones, merchant stalls pushed aside, medieval crowd as audience, torchlight
+
+**Mid/Reality-Cracking Stage Prompts:**
+- **Castle courtyard with warping walls:** Stone beginning to ripple, braziers burning unnaturally bright
+- **Church with melting architecture:** Stone liquefying subtly, religious symbols distorting
+
+**Late/Surreal Stage Prompts:**
+- **Gothic cathedral as metaphorical space:** Soaring impossible heights, stained glass kaleidoscoping, architecture obeying music not physics
+- **Castle courtyard becoming abstract:** Walls fragmenting into geometric shapes, fire defying gravity, medieval structure dissolving into pure color and energy
+- **Expressionist medieval nightmare:** All solid medieval elements becoming liquid, multiplying, transcending reality
+
+**Lighting:**
+- Stage lighting: blues, purples, deep reds
+- High contrast shadows
+- Spotlights, backlighting
+- Colored gels, dramatic pools of light
+- Smoke catching light beams
+- Moody, atmospheric
+- BRAZIER FLAMES as practical light source mixed with impossible stage lights
+
+**Wardrobe & Styling (Joan):**
+- Early 2000s emo aesthetic
+- Dark clothing (black, deep reds, purples)
+- Band t-shirts, worn jeans, or performance clothes
+- Eyeliner, emotional expression
+- Hair down or styled emo-fashion
+- Leather jacket or hoodie
+- Raw, authentic performance style
+
+**Wardrobe & Styling (Band Members):**
+- Emo/punk rock aesthetic (early 2000s)
+- Dark clothes, band tees, worn denim
+- Individual style but cohesive band aesthetic
+- Casual performance wear
+- Authentic musician look (not costume-y)
+
+**Performance & Camera:**
+- Concert cinematography style
+- Close-ups on faces (emotion, sweat, intensity)
+- Close-ups on hands playing instruments
+- Medium shots of performers with instruments
+- Wide stage shots showing 2-3 band members
+- Various dynamic angles
+- Over-shoulder shots from behind performers
+- Audience POV shots
+
+**Editorial & Effect:**
+- High contrast, vibrant stage colors
+- Film grain for analog feel
+- Saturated colors in lighting
+- Surreal distortion increasing with song intensity
+
+**Finish:**
+- Raw concert cinematography
+- Intimate and explosive
+- Authentic emo performance energy
+- Medieval setting creating unique anachronistic aesthetic
+
+**Vibe:**
+- Cathartic, emotional, defiant
+- Raw performance vulnerability
+- Explosive energy release
+- Musical unity and chemistry
+- Medieval architecture responding to modern music
+
+**Exclusions:**
+- Avoid overly polished/pop aesthetic
+- Keep it authentic emo, not parody
+
+---
+
+### TRACK 4: PYRE / TRANSCENDENCE
+
+**Purpose:** Joan's martyrdom and transformation into eternal legend—beautiful and terrible
+
+**Era & Capture:**
+- Medieval public execution, 1431
+- Rouen marketplace (HISTORICALLY ACCURATE)
+- Fire and smoke cinematography
+- Transcendent, spiritual, apocalyptic beauty
+
+**Production Design:**
+- Wooden pyre structure, stakes
+- Medieval town square architecture (modest marketplace scale)
+- Crowd of witnesses (shadowy, background)
+- Rising flames and smoke
+- Ethereal, hellish, beautiful
+
+**Lighting:**
+- Firelight from below (orange, red, gold)
+- Divine light from above (white, ethereal)
+- High contrast between fire and shadow
+- Smoke creating atmospheric haze
+- Backlit silhouettes
+- Dramatic, supernatural quality
+
+**Wardrobe & Styling (Joan):**
+- Simple white or pale garment (symbolic purity)
+- Hair loose, blowing in heat
+- Bound to stake or standing defiant
+- Face lit by flames but peaceful
+- Eyes skyward, transcendent expression
+- Becoming light itself
+
+**Wardrobe & Styling (Band Members - Optional/Minimal):**
+- Medieval crowd clothing (dark, shadowy)
+- Witnesses in background (not primary focus)
+- Grief-stricken, reaching but unable to help
+- Or: Absent entirely (Joan's solitary moment)
+
+**Performance & Camera:**
+- Low angle shots (Joan towering, heroic)
+- Extreme close-ups on eyes, face
+- Wide shots showing scale of flames
+- Fire as foreground and background
+- Smoke obscuring and revealing
+- Transcendent, spiritual framing
+- 85mm for intimate face shots, 24mm for epic scale
+
+**Editorial & Effect:**
+- Rich orange/red fire tones
+- Ethereal white light from above
+- High contrast, dramatic
+- Particle effects (embers, ash floating)
+- Dreamlike, surreal quality
+
+**Finish:**
+- Beautiful apocalyptic spirituality
+- Fire as transformation, not torture
+- Transcendent, legendary
+
+**Vibe:**
+- Martyrdom, transformation, eternal
+- Peaceful defiance
+- Becoming legend
+- Fire as beauty and power
+
+**Exclusions:**
+- Avoid explicit torture/suffering imagery
+- Focus on transcendence, not pain
+- Keep it spiritual, not exploitative

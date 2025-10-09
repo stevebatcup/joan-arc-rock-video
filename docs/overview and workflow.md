@@ -168,10 +168,13 @@ Each video intercuts between 3 thematic visual streams that together create narr
 - Generate batches of 10-20 prompts per session
 - Ensure variety and coverage across all visual tracks
 - Create start/end frame pairs for img2vid workflow
-- Track total prompt count toward ~220 goal
+- Track total prompt count toward ~175 goal
 - Maintain consistency within tracks while varying specifics
+- This documentation is our strict guide. Every single prompt must adhere to the formatting rules.
+- Each prompt should have a minimum word count of 100
+- Prompt should have no meta-commentary, no temporal/negative phrasing, no sound references, and treating every prompt as a standalone universe.
 
-**Deliverable:** ~220 image prompts organized by visual track, formatted for easy copy/paste into image generators
+**Deliverable:** ~175 image prompts organized by visual track, formatted for easy copy/paste into image generators
 
 ---
 
