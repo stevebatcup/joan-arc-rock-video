@@ -59,12 +59,38 @@ Since Sora has excellent actor recognition, use **direct notation**:
 "Timothée Chalamet as Charles VII..."
 "Cate Blanchett as Yolande of Aragon..."
 ```
+Use this 'Actor as Character' syntax and follow with hair/clothes. Examples:
 
-❌ **Old Format (No Longer Used):**
-```
-"A Joan of Arc character with features similar to Zendaya..."
-"A young woman inspired by Zendaya as Joan of Arc..."
-```
+Harrison Ford as Han Solo — teased 80s mane variant, leather/satin/velvet combos, chain; glove sometimes.
+Carrie Fisher as Princess Leia — big glam updo or beaded rock-buns, sequins/lamé, bold lipstick.
+Mark Hamill as Luke Skywalker — tousled 80s blow dry, leather biker with Jedi undertones, slim black trousers.
+Billy Dee Williams as Lando Calrissian — velvet, silk, gold jewelry, cape-inspired lapels.
+Daisy Ridley as Rey — volumized hair with 80s spin on triple-bun motif, leather bodice + spandex, stud wrist wraps.
+Adam Driver as Kylo Ren — 80s mane with black leather trench, studded collar; saber OFF unless asked.
+
+Variation for wardrobe in each prompt for named characters.
+
+### Common Failures (Don't Repeat These)
+
+- Returning shots with zero named characters. Not allowed.
+- Single-character sameness across dozens of prompts. Mix it up.
+- Random readable signs/lyrics in frame (breaks immersion and makes thumbnails messy).
+- Kissing (hard no).
+- Cluttered backgrounds that compete with faces or title.
+- Over-warm grading turning skin to orange mud; keep cool till in play.
+- Using flowery abstract language, emotions. t2i image models need precise visual language not flowery impressions.
+- Using words that trigger censors: we want to avoid any censor triggers with words like horror, devastation, etc
+- Describing tears on faces, instead just say "sad"
+- Avoid describing what is not happening in a scene -- stick to descriptions of what is happening
+
+
+### How to Think About Variety
+
+- Rotate micro-locations: column, rail, booth, portal, bar curve, stairs, stage lip.
+- Rotate angles: frontal, profile, three quarter, occasional low angle for heroic scale.
+- Rotate light recipes: magenta key + cyan fill; cyan key + amber practical; green tech wash + amber kicker.
+- Rotate fabric & surface: velvet, lamé, patent, leather, satin, lace, mesh, animal print.
+- Rotate ensembles: romance pair; women-led trios; mixed-era cameos; alien glam.
 
 ### Multiple Characters in Single Prompt
 
@@ -72,20 +98,13 @@ Since Sora has excellent actor recognition, use **direct notation**:
 
 Once you exceed 3 characters in frame, image quality degrades significantly, especially facial consistency. Structure prompts accordingly:
 
-**Solo shots (1 character):** ~60% of prompts
-**Duo shots (2 characters):** ~30% of prompts  
-**Trio shots (3 characters):** ~10% of prompts  
-**Never:** 4+ characters in single frame
-
 ---
 
 ## SORA PROMPTING BEST PRACTICES
 
 ### Optimal Prompt Structure
 
-**Length:** Under 120 words (Sora performs best with concise prompts)  
 **Target:** 150-200 words maximum per prompt  
-**Complexity:** 1-2 primary visual elements per prompt (simple > complex)
 Also see the "sora guide.md" document for details.
 
 ### Cinematic Shot List Format - IMAGE PROMPTS ONLY
@@ -240,8 +259,10 @@ Instead of generic "lighting," specify actual medieval sources:
 
 Create prompts based on these four distinct visual tracks. Each track has specific aesthetic guidelines.
 Include "Do not include text in the images" as Sora has a tendency to add text for historial imagery.
+These presets will be used as "prefixes for the main image prompts by Sora
 
 See the "visual tracks.md" file for more details but these guidelines must be followed when writing the presets:
+
 1. Maximum of 1800 characters
 2. Give lots of detail on setting, lighting, visual effects. Be creative
 3. Do not mention people at all.
@@ -314,6 +335,7 @@ See the "visual tracks.md" file for more details but these guidelines must be fo
 ## PROMPT TEMPLATE & STRUCTURE
 
 ### JSON Format Requirements
+I will ask for a json file for the prompts you have written, please follow these guidelines.
 
 Each prompt must be formatted as valid JSON with these exact fields:
 
@@ -324,11 +346,9 @@ Each prompt must be formatted as valid JSON with these exact fields:
   "track": "Track [1-4] - [Track Name]",
   "shotType": "[SHOT TYPE IN CAPITALS]",
   "characters": "[Character names or 'None']",
-  "bpm": [number],
   "imagePrompt": "[Complete standalone image prompt with NO camera movement]",
   "videoPrompt": "[Complete motion and camera prompt with motion notes integrated, NO duration]",
   "motionNotes": "[Comma-separated key motion elements for reference]",
-  "priority": "[A/B/C]"
 }
 ```
 
@@ -342,7 +362,6 @@ environmental state frozen]. [Emotional tone]. [Color/style notes].
 [Medieval authenticity or surreal elements as appropriate to section].
 ```
 
-**Length:** 120-200 words, concise and specific
 
 ### Video Prompt Structure (All Motion & Camera)
 
@@ -354,7 +373,7 @@ motion], [camera movement type and direction], [environmental effects in motion]
 movement beats]
 ```
 
-**NO duration statements** - remove all "5 seconds" references
+NO duration statements
 
 ---
 
@@ -370,7 +389,7 @@ Before finalizing any prompt, verify:
 ✅ **Medieval Specificity:** Actual medieval materials, light sources, architecture named  
 ✅ **Shot Type Variety:** Mixing distances and angles throughout batch  
 ✅ **Character Limit:** Maximum 3 characters per shot  
-✅ **Length Appropriate:** Image prompts 120-200 words, video prompts as detailed as needed  
+✅ **Length Appropriate:** Image prompts 150-200 words, video prompts as detailed as needed  
 ✅ **Track Aesthetic Match:** Visual style matches the specific track guidelines  
 ✅ **Priority Assigned:** A for essential, B for strong support, C for nice-to-have  
 

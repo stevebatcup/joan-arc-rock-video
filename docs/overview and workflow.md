@@ -10,7 +10,7 @@
 - Use AI-generated music (Suno) as foundation
 - Add human compositional skill via orchestral enhancements
 - Pair with AI-generated visuals using "actor as character" formula
-- Create narrative through three distinct visual "tracks" or themes
+- Create narrative through distinct visual "tracks" or themes
 
 **Differentiation:** This is NOT pure AI content. The orchestral arrangements, visual curation, narrative structure, and conceptual pairing are all human artistic choices that elevate AI-generated elements into cohesive artistic statements.
 
@@ -99,7 +99,7 @@
 ---
 
 ### Phase 4: Visual Strategy & Preset Development
-**Goal:** Establish three distinct visual "tracks" that tell the character's story
+**Goal:** Establish distinct visual "tracks" that tell the character's story
 
 **Visual Track Concept:**
 Each video intercuts between 3 thematic visual streams that together create narrative:
@@ -121,20 +121,20 @@ Each video intercuts between 3 thematic visual streams that together create narr
    - What's the visual arc across the whole piece?
 
 **Claude's Role:**
-- Develop three cohesive visual track concepts
+- Develop cohesive visual track concepts
 - Write detailed preset prompts for each track (including actor, character, setting, mood, lighting, action, style)
 - Create visual arc/timeline mapping tracks to song structure
 - Ensure anachronistic elements feel intentional, not random
 
 **Deliverable:** 
-- Three visual track preset prompts
+- Visual track preset prompts
 - Timeline/structure document showing which tracks appear when
 - Visual arc description
 
 ---
 
 ### Phase 5: Image Prompt Generation
-**Goal:** Generate ~200 specific image prompts across three visual tracks
+**Goal:** Generate ~200 specific image prompts across visual tracks
 
 **Process:**
 1. Work in batches of 10-20 prompts at a time
@@ -171,7 +171,7 @@ Each video intercuts between 3 thematic visual streams that together create narr
 - Track total prompt count toward ~175 goal
 - Maintain consistency within tracks while varying specifics
 - This documentation is our strict guide. Every single prompt must adhere to the formatting rules.
-- Each prompt should have a minimum word count of 100
+- Each prompt should have a minimum word count of 120
 - Prompt should have no meta-commentary, no temporal/negative phrasing, no sound references, and treating every prompt as a standalone universe.
 
 **Deliverable:** ~175 image prompts organized by visual track, formatted for easy copy/paste into image generators
@@ -302,7 +302,7 @@ A successful proof of concept demonstrates:
 
 ✅ **Workflow viability:** All steps function as planned  
 ✅ **Orchestral enhancement adds value:** Human arrangements elevate AI foundation  
-✅ **Visual concept works:** Three-track approach tells coherent story  
+✅ **Visual concept works:** Multiple visual track approach tells coherent story  
 ✅ **Anachronistic pairing resonates:** Genre choice illuminates character  
 ✅ **Technical quality:** Professional-level audio and visual output  
 ✅ **Differentiation:** Final product clearly distinct from standard AI content  
@@ -372,7 +372,7 @@ A successful proof of concept demonstrates:
 **Key reminders:**
 - The "[Actor] as [Character]" formula is crucial for visual consistency
 - Instrumental breaks are for orchestral showcase—don't forget them
-- Three visual tracks should be distinct but complementary
+- Visual tracks should be distinct but complementary
 - Quality over quantity—better to have 80 great prompts than 120 mediocre ones
 - This is proof of concept—perfection isn't required, viability is
 
